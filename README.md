@@ -14,6 +14,5 @@
 - Build Business Optimization Projects using Non-Linear Optimization Models, Simulations, and Query Optimization.
 
 ### SKILLS:
-
 <img width="816" alt="image" src="https://user-images.githubusercontent.com/64645859/200198014-31a95f54-b281-4ad3-9172-52fe55df4217.png">
 
